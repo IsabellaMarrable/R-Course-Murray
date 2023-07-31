@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj
+
+# * means anything beforehand
+# this selects what to exclude (gitignore), you may want to exclude your data for example
